@@ -1,0 +1,6 @@
+{
+  "build_command": "",
+  "install_command": "",
+  "start_command": "/new-api --log-dir /app/logs",
+  "dockerfile": "Dockerfile"
+}
